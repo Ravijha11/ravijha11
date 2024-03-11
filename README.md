@@ -1,4 +1,17 @@
+<h1 align="center">Hi 👋, I'm Ravindra Jha</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
+- 🚀 Just completed: [QTripDynamic](https://ravijhadynamic.netlify.app/)
+
+- 🚀 Just completed: [QKart](https://qkart-frontend-ravi.vercel.app/)
+
+- 🚀 Just completed: [XBoard](https://ravijhaxboardd.netlify.app/)
+
+- 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/ravijha110903/?edit=true](https://www.crio.do/learn/portfolio/ravijha110903/?edit=true)
+
+- 💬 Ask me about **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
+
+- Email📧 - **ravijha110903@gmail.com**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravi.jhaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindra-jha-166557213) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ravii_jha) 
 
